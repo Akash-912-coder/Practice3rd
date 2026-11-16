@@ -1,0 +1,30 @@
+*{
+    background-color: darkgray;
+};
+ 
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: honeydew;
+    color: red;
+};
+
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+    font-size: large;
+}
+
+li{
+    color: red;
+}
+
+ol+p{
+    color: brown;
+}
+
